@@ -1,0 +1,10 @@
+{
+    "name": "marcos/mvc-my-receitas",
+    "authors": [
+        {
+            "name": "Marcos Gonçalves",
+            "email": "marcoslopesg7@gmail.com"
+        }
+    ],
+    "require": {}
+}
